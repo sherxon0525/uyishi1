@@ -1,0 +1,54 @@
+
+body{
+    background-color: #48CEAD;
+}
+.list{
+    display: flex;
+    height: 250px;
+    width: 800px;
+    list-style-type: none;
+    background-color: white;
+    margin: 170px auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.list-headding-one{
+    color: #BCBEBD;
+}
+
+.prise-one{
+     color: #BCBEBD;
+}
+
+.list-headding-two{
+    color: #D1C08C;
+}
+
+.prise-two{
+    color: #D1C08C;
+}
+
+.list-headding-there{
+    color: #B56E77;
+}
+
+.prise-there{
+    color: #B56E77;
+}
+
+.list-item{
+    width: 300px;
+    text-align: center;
+    
+}
+
+.list-item + .list-item{
+    margin-left: 10px;
+}
+
+.paragraph{
+    margin: 0;
+    padding: 0;
+}
+    
